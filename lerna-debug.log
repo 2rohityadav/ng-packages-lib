@@ -1,6 +1,6 @@
 35 error Error: Command failed: git commit -m v1.0.0
 35 error On branch master
-35 error Your branch is ahead of 'origin/master' by 1 commit.
+35 error Your branch is ahead of 'origin/master' by 2 commits.
 35 error   (use "git push" to publish your local commits)
 35 error
 35 error nothing to commit, working tree clean
