@@ -13,6 +13,7 @@ dist/
 *.so
 
 *.so
+*lerna-debug.log
 
 # Packages #
 ############
