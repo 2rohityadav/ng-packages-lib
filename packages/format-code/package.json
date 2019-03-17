@@ -1,6 +1,6 @@
 {
   "name": "format-code",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.2",
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
@@ -18,5 +18,5 @@
   "dependencies": {
     "tslib": "^1.9.0"
   },
-  "gitHead": "5ba620098225f755b2bbc9996fc4d79719ebd393"
+  "gitHead": "44f36803f1718c08b7c852321cf1d2b73a1c62d3"
 }
