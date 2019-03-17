@@ -1,0 +1,21 @@
+{
+  "name": "format-code",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/format-code.umd.js",
+  "module": "fesm5/format-code.js",
+  "es2015": "fesm2015/format-code.js",
+  "esm5": "esm5/format-code.js",
+  "esm2015": "esm2015/format-code.js",
+  "fesm5": "fesm5/format-code.js",
+  "fesm2015": "fesm2015/format-code.js",
+  "typings": "format-code.d.ts",
+  "metadata": "format-code.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
